@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td01_ex01.dir/src/td01_ex01.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td01_ex01.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td01_ex01.cpp",
+  "output": "CMakeFiles/td01_ex01.dir/src/td01_ex01.cpp.o"
+},
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td01_ex02.dir/src/td01_ex02.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td01_ex02.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td01_ex02.cpp",
+  "output": "CMakeFiles/td01_ex02.dir/src/td01_ex02.cpp.o"
+},
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td02_ex01.dir/src/td02_ex01.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td02_ex01.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td02_ex01.cpp",
+  "output": "CMakeFiles/td02_ex01.dir/src/td02_ex01.cpp.o"
+},
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td02_ex02.dir/src/td02_ex02.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td02_ex02.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td02_ex02.cpp",
+  "output": "CMakeFiles/td02_ex02.dir/src/td02_ex02.cpp.o"
+},
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td02_ex03.dir/src/td02_ex03.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td02_ex03.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td02_ex03.cpp",
+  "output": "CMakeFiles/td02_ex03.dir/src/td02_ex03.cpp.o"
+},
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td02_ex04.dir/src/td02_ex04.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td02_ex04.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td02_ex04.cpp",
+  "output": "CMakeFiles/td02_ex04.dir/src/td02_ex04.cpp.o"
+},
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td02_ex05.dir/src/td02_ex05.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td02_ex05.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td02_ex05.cpp",
+  "output": "CMakeFiles/td02_ex05.dir/src/td02_ex05.cpp.o"
+},
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td02_ex06.dir/src/td02_ex06.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td02_ex06.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td02_ex06.cpp",
+  "output": "CMakeFiles/td02_ex06.dir/src/td02_ex06.cpp.o"
+},
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td02_ex07.dir/src/td02_ex07.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td02_ex07.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td02_ex07.cpp",
+  "output": "CMakeFiles/td02_ex07.dir/src/td02_ex07.cpp.o"
+},
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td03_ex01.dir/src/td03_ex01.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td03_ex01.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td03_ex01.cpp",
+  "output": "CMakeFiles/td03_ex01.dir/src/td03_ex01.cpp.o"
+},
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td03_ex02.dir/src/td03_ex02.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td03_ex02.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td03_ex02.cpp",
+  "output": "CMakeFiles/td03_ex02.dir/src/td03_ex02.cpp.o"
+},
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td03_ex03.dir/src/td03_ex03.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td03_ex03.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td03_ex03.cpp",
+  "output": "CMakeFiles/td03_ex03.dir/src/td03_ex03.cpp.o"
+},
+{
+  "directory": "/Users/akingram/Code/imac/algo/helloworld/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/td03_ex04.dir/src/td03_ex04.cpp.o -c /Users/akingram/Code/imac/algo/helloworld/src/td03_ex04.cpp",
+  "file": "/Users/akingram/Code/imac/algo/helloworld/src/td03_ex04.cpp",
+  "output": "CMakeFiles/td03_ex04.dir/src/td03_ex04.cpp.o"
+}
+]
