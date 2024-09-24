@@ -4,6 +4,8 @@ int main()
 {
     std::cout << "TD 03 - Ex 04" << std::endl;
 
+    std::srand(std::time(nullptr));
+
     int unsigned random_value = std::rand() % 100 + 1;
 
     while (true)
