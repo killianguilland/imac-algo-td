@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout << "TD 02 - Ex 07" << std::endl;
+    std::cout << "TD 02 - Ex bonus" << std::endl;
 
     float prix_sac_patate { 1.5 * 2 };
 

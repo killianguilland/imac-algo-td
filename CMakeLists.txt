@@ -24,7 +24,7 @@ add_executable(td02_ex05 src/td02_ex05.cpp)
 
 add_executable(td02_ex06 src/td02_ex06.cpp)
 
-add_executable(td02_ex07 src/td02_ex07.cpp)
+add_executable(td02_exbonus src/td02_exbonus.cpp)
 
 # TD03
 
@@ -34,7 +34,15 @@ add_executable(td03_ex02 src/td03_ex02.cpp)
 
 add_executable(td03_ex03 src/td03_ex03.cpp)
 
+add_executable(td03_ex03_bis src/td03_ex03_bis.cpp)
+
 add_executable(td03_ex04 src/td03_ex04.cpp)
+
+add_executable(td03_ex05 src/td03_ex05.cpp)
+
+add_executable(td03_ex06 src/td03_ex06.cpp)
+
+add_executable(td03_exbonus src/td03_exbonus.cpp)
 
 # file(GLOB_RECURSE MY_SOURCES CONFIGURE_DEPENDS src/*)
 
