@@ -2,8 +2,6 @@
 
 int main()
 {
-    int unsigned my_var { 5 };
-
     std::cout << "TD 02 - Ex 02" << std::endl;
 
     std::cout << "Entre la valeur 1 : " << std::endl;
